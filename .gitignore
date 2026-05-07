@@ -1,0 +1,19 @@
+# Models (Large Files)
+models/
+*.gguf
+
+# Memory & Artifacts
+artifacts/
+*.faiss
+*.json
+
+# Python & Environment
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# Logs
+*.log
+streamlit_error.log

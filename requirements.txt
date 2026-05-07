@@ -1,0 +1,12 @@
+flask
+flask-cors
+pandas
+sentence-transformers
+faiss-cpu
+transformers
+torch
+pydantic
+accelerate
+python-dotenv
+huggingface_hub
+sentencepiece
