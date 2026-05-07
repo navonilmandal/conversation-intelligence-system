@@ -1,4 +1,4 @@
-````md
+
 # Conversation Intelligence RAG
 ### Hierarchical Memory-Augmented Conversational AI System
 
