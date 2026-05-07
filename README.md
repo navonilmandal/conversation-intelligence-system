@@ -518,5 +518,37 @@ while operating entirely through local inference pipelines.
 
 This project represents a practical exploration into building scalable, memory-aware conversational AI systems using modern RAG engineering principles.
 
+
+---
+
+# 👨‍💻 Author
+
+### Navonil Mandal
+
+Computer Science & Engineering Student  
+BIT Mesra  
+
+📧 Email: navonilmandal@gmail.com  
+
+🔗 LinkedIn: https://linkedin.com/in/navonilmandal
+
+💻 GitHub: https://github.com/navonilmandal
+
+---
+
+# 📌 Acknowledgement
+
+This project was developed as an exploration into:
+- Generative AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- Conversational Memory Systems
+- Hallucination Mitigation
+- Semantic Retrieval Architectures
+- Local LLM Orchestration
+
+The project reflects strong interest in building scalable and grounded conversational AI systems capable of long-term contextual understanding.
+```
+
+
 ```
 ```
