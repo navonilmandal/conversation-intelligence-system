@@ -399,7 +399,7 @@ but engineering a robust long-term conversational memory system with practical h
 ## Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone github.com/navonilmandal/conversation-intelligence-system 
 cd conversation-intelligence-rag
 ````
 
